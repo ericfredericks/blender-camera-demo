@@ -1,2 +1,2 @@
 # Blender Camera Demo
-<img src="https://gyazo.com/1adb0bf544660b0fb312de026685d115" alt="Screenshot" width="500">
+<img src="https://i.gyazo.com/1adb0bf544660b0fb312de026685d115.mp4" alt="Screenshot" width="500">
